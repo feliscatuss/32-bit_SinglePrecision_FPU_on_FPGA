@@ -1,0 +1,139 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s99 nomlopt
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Backup/Study/DE10 Standard FPGA/BCDAdder
+T_opt
+!s110 1648721640
+Vl^H;N67bDjV98oeP7DgCA2
+04 9 4 work testbench fast 0
+=1-0cdd24ed1ee4-62457ee7-124-3630
+!s124 OEM10U5 
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+R0
+vcmpshift
+Z2 !s110 1649326097
+!i10b 1
+!s100 kRYlhWQ@`<@^WRQeWL;fa1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ID;II`a<gZbTF8E@0lQfLR0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dE:/Backup/Study/DE10 Standard FPGA/FPU32bitAdder
+Z6 w1648723091
+Z7 8E:/Backup/Study/DE10 Standard FPGA/FPU32bitAdder/FPU32bitAdderTop.v
+Z8 FE:/Backup/Study/DE10 Standard FPGA/FPU32bitAdder/FPU32bitAdderTop.v
+!i122 13
+L0 65 40
+Z9 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z10 !s108 1649326097.000000
+Z11 !s107 E:/Backup/Study/DE10 Standard FPGA/FPU32bitAdder/FPU32bitAdderTop.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|E:/Backup/Study/DE10 Standard FPGA/FPU32bitAdder/FPU32bitAdderTop.v|
+!i113 1
+Z13 o-work work
+R1
+vfadd
+R2
+!i10b 1
+!s100 @YPk:3>a3BLJ;X1mglgci3
+R3
+IE`M^ca6hA;BK3;F5TY7Of0
+R4
+R5
+R6
+R7
+R8
+!i122 13
+L0 47 16
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R1
+vFPU32bitAdderTop
+R2
+!i10b 1
+!s100 G`CPn683a1`MgTSWmf0nz1
+R3
+IeSE;B[>2SQaPj<AH]S<iJ2
+R4
+R5
+R6
+R7
+R8
+!i122 13
+L0 1 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R1
+n@f@p@u32bit@adder@top
+vnormalized
+R2
+!i10b 1
+!s100 aEIWPK8=bJm=moX5D:o6H0
+R3
+Ific9G^cT;d3SQ6FQ_3__H2
+R4
+R5
+R6
+R7
+R8
+!i122 13
+L0 26 20
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R1
+vtestbench
+!s110 1649326600
+!i10b 1
+!s100 ekRH779i;i3jjNgFd]M5K3
+R3
+I>9ZJV2T_;iZzKX1OG3B3e3
+R4
+R5
+w1649326587
+8E:/Backup/Study/DE10 Standard FPGA/FPU32bitAdder/testbench.v
+FE:/Backup/Study/DE10 Standard FPGA/FPU32bitAdder/testbench.v
+!i122 19
+L0 1 22
+R9
+r1
+!s85 0
+31
+!s108 1649326600.000000
+!s107 E:/Backup/Study/DE10 Standard FPGA/FPU32bitAdder/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Backup/Study/DE10 Standard FPGA/FPU32bitAdder/testbench.v|
+!i113 1
+R13
+R1
